@@ -27,7 +27,6 @@ const ShowBook = () => {
   
   console.log(id); // Log the id parameter to ensure it's correct
 
-
   return (
     <div className='p-4'>
       <BackButton/>
